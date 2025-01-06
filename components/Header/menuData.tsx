@@ -3,7 +3,7 @@ import { Menu } from "@/types/menu";
 const menuData: Menu[] = [
   {
     id: 1,
-    title: "Home",
+    title: "Início",
     newTab: false,
     path: "/",
   },
@@ -21,13 +21,13 @@ const menuData: Menu[] = [
   },
   {
     id: 2.3,
-    title: "Pricing",
+    title: "Preços",
     newTab: false,
     path: "/pricing",
   },
   {
     id: 3,
-    title: "Pages",
+    title: "Páginas",
     newTab: false,
     submenu: [
       {
@@ -38,13 +38,13 @@ const menuData: Menu[] = [
       },
       {
         id: 34,
-        title: "Sign In",
+        title: "Entrar",
         newTab: false,
         path: "/auth/signin",
       },
       {
         id: 35,
-        title: "Sign Up",
+        title: "Criar conta",
         newTab: false,
         path: "/auth/signup",
       },
@@ -56,7 +56,7 @@ const menuData: Menu[] = [
       },
       {
         id: 35.1,
-        title: "Support",
+        title: "Suporte",
         newTab: false,
         path: "/support",
       },
@@ -71,7 +71,7 @@ const menuData: Menu[] = [
 
   {
     id: 4,
-    title: "Support",
+    title: "Suporte",
     newTab: false,
     path: "/support",
   },
