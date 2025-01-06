@@ -1,3 +1,4 @@
+/*
 "use client";
 import React from "react";
 import SingleBrand from "./SingleBrand";
@@ -21,4 +22,5 @@ const Brands = () => {
   );
 };
 
-export default Brands;
+// export default Brands;
+*/
