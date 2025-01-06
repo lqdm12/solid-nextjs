@@ -50,13 +50,13 @@ const Footer = () => {
                 </p>
 
                 <p className="mb-1.5 text-sectiontitle uppercase tracking-[5px]">
-                  contact
+                  contato
                 </p>
                 <a
                   href="#"
                   className="text-itemtitle font-medium text-black dark:text-white"
                 >
-                  hello@solid.com
+                  hello@nexusvest.com
                 </a>
               </motion.div>
 
@@ -80,7 +80,7 @@ const Footer = () => {
                   className="animate_top"
                 >
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
-                    Quick Links
+                    Links rápidos
                   </h4>
 
                   <ul>
@@ -89,7 +89,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Home
+                        Início
                       </a>
                     </li>
                     <li>
@@ -97,7 +97,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Product
+                        Produtos
                       </a>
                     </li>
                     <li>
@@ -105,7 +105,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Careers
+                        Carreiras
                       </a>
                     </li>
                     <li>
@@ -113,7 +113,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Pricing
+                        Preços
                       </a>
                     </li>
                   </ul>
@@ -138,7 +138,7 @@ const Footer = () => {
                   className="animate_top"
                 >
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
-                    Support
+                    Suporte
                   </h4>
 
                   <ul>
@@ -163,7 +163,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Our Blog
+                        Nosso Blog
                       </a>
                     </li>
                     <li>
@@ -171,7 +171,7 @@ const Footer = () => {
                         href="#"
                         className="mb-3 inline-block hover:text-primary"
                       >
-                        Contact Us
+                        Entre em contato
                       </a>
                     </li>
                   </ul>
@@ -266,17 +266,17 @@ const Footer = () => {
               <ul className="flex items-center gap-8">
                 <li>
                   <a href="#" className="hover:text-primary">
-                    English
+                    Português
                   </a>
                 </li>
                 <li>
                   <a href="#" className="hover:text-primary">
-                    Privacy Policy
+                    Política de privacidade
                   </a>
                 </li>
                 <li>
                   <a href="#" className="hover:text-primary">
-                    Support
+                    Suporte
                   </a>
                 </li>
               </ul>
@@ -301,7 +301,7 @@ const Footer = () => {
               className="animate_top"
             >
               <p>
-                &copy; {new Date().getFullYear()} Solid. All rights reserved
+                &copy; {new Date().getFullYear()} NexusVest. Todos os direitos reservados
               </p>
             </motion.div>
 
