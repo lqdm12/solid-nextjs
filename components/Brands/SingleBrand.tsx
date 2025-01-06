@@ -1,4 +1,3 @@
-/*
 import React, { useRef, useEffect } from "react";
 import Image from "next/image";
 import { Brand } from "@/types/brand";
@@ -46,4 +45,3 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
 };
 
 export default SingleBrand;
-*/
