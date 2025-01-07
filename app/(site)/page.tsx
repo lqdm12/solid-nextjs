@@ -27,6 +27,7 @@ export default function Home() {
       <Testimonial />
       <About />
       <FeaturesTab />
+      <Feature />
       <FunFact />
       <Integration />
       <CTA />

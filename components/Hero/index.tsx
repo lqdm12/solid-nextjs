@@ -35,7 +35,7 @@ const Hero = () => {
                       value={email}
                       onChange={(e) => setEmail(e.target.value)}
                       type="text"
-                      placeholder="Enter your email address"
+                      placeholder="Endereço de e-mail"
                       className="rounded-full border border-stroke px-6 py-2.5 shadow-solid-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
                     />
                     <button
@@ -48,7 +48,7 @@ const Hero = () => {
                 </form>
 
                 <p className="mt-5 text-black dark:text-white">
-                  Tente gratuitamente sem cartão de crédito.
+                  Teste grátis sem cartão de crédito.
                 </p>
               </div>
             </div>
