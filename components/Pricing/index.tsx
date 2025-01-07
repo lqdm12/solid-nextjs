@@ -47,13 +47,13 @@ const Pricing = () => {
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Todas as questões
+                    Acesso completo a todas as questões
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Questões por nível de dificuldade
+                    Questões organizadas por nível de dificuldade
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
-                    Questões atualizadas
+                    Conteúdo sempre atualizado
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
                     Filtro por matéria e subtópicos
@@ -97,18 +97,18 @@ const Pricing = () => {
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Semestral Pro
               </h4>
-              <p>Economize R$ 60 com 20% de desconto</p>
+              <p>Economize R$60 com 20% de desconto</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Todas as questões
+                    Acesso ilimitado a todas as questões
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Questões por nível de dificuldade
+                    Questões organizadas por nível de dificuldade
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Questões atualizadas
+                    Conteúdo sempre atualizado
                   </li>
                   <li className="mb-4 text-black opacity-40 last:mb-0 dark:text-manatee">
                     Filtro por matéria e subtópicos
@@ -148,18 +148,18 @@ const Pricing = () => {
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Anual Premium
               </h4>
-              <p>Economize R$ 90 | 30% off</p>
+              <p>Economize R$90 com 30% de desconto</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Todas as questões
+                    Acesso ilimitado a todas as questões
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Questões por nível de dificuldade
+                    Questões organizadas por nível de dificuldade
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
-                    Questões atualizadas
+                    Conteúdo sempre atualizado
                   </li>
                   <li className="mb-4 text-black last:mb-0 dark:text-manatee">
                     Filtro por matéria e subtópicos
