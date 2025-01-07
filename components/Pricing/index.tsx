@@ -172,7 +172,7 @@ const Pricing = () => {
                 className="group/btn inline-flex items-center gap-2.5 font-medium text-primary transition-all duration-300 dark:text-white dark:hover:text-primary"
               >
                 <span className="duration-300 group-hover/btn:pr-2">
-                  Compre agora e economize
+                  Compre agora
                 </span>
                 <svg
                   width="14"
