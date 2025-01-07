@@ -19,9 +19,9 @@ const Brands = () => {
         </div>
       </section>
       {/* <!-- ===== Clients End ===== --> *///}
-     /*
+    /*
       </>
-   );
- };
+  );
+};
 */
- // export default Brands;
+// export default Brands;

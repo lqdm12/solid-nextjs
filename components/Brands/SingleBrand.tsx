@@ -44,6 +44,5 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
     </>
   );
 };
-
-export default SingleBrand;
 */
+// export default SingleBrand;

@@ -46,5 +46,5 @@ const brandData: Brand[] = [
   },
 ];
 
-export default brandData;
+// export default brandData;
 */
