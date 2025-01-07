@@ -17,7 +17,7 @@ const BlogData: Blog[] = [
   {
     _id: 2,
     mainImage: "/images/blog/blog-03.png",
-   title: "5 Dicas Infalíveis para Aumentar sua Concentração nos Estudos",
+    title: "5 Dicas Infalíveis para Aumentar sua Concentração nos Estudos",
     metadata: "Descubra 5 dicas essenciais para melhorar sua concentração nos estudos e aumentar sua produtividade enquanto se prepara para o vestibular.",
   },
   {

@@ -97,7 +97,7 @@ const Pricing = () => {
               <h4 className="mb-2.5 text-para2 font-medium text-black dark:text-white">
                 Semestral Pro
               </h4>
-              <p>Economize R$ 60 | 20% off</p>
+              <p>Economize R$ 60 com 20% de desconto</p>
 
               <div className="mt-9 border-t border-stroke pb-12.5 pt-9 dark:border-strokedark">
                 <ul>
