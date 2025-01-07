@@ -11,9 +11,9 @@ const BlogData: Blog[] = [
   {
     _id: 2,
     mainImage: "/images/blog/blog-02.png",
-    title: "9 simple ways to improve your design skills",
+    title: "Como Organizar Sua Rotina de Estudos para o Vestibular",
     metadata:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit convallis tortor.",
+      "Planejar seus estudos é o primeiro passo para alcançar a aprovação no vestibular. Neste artigo, trazemos dicas detalhadas para ajudar você a criar uma rotina personalizada e eficiente.",
   },
   {
     _id: 2,

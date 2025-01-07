@@ -88,47 +88,46 @@ const SingleBlogPage = async () => {
                 </div>
 
                 <h2 className="mb-5 mt-11 text-3xl font-semibold text-black dark:text-white 2xl:text-sectiontitle2">
-                  Kobe Steel plant that supplied
+                Como Organizar Sua Rotina de Estudos para o Vestibular
                 </h2>
 
                 <ul className="mb-9 flex flex-wrap gap-5 2xl:gap-7.5">
                   <li>
                     <span className="text-black dark:text-white">Author: </span>{" "}
-                    Jhon Doe
+                    Leonard Mendonça
                   </li>
                   <li>
                     <span className="text-black dark:text-white">
-                      Published On: July 30, 2023
+                      Publicado em: Janeiro 7, 2025
                     </span>{" "}
                   </li>
                   <li>
                     <span className="text-black dark:text-white">
-                      Category:
+                      Categoria:
                     </span>
                     Events
                   </li>
                 </ul>
 
                 <div className="blog-details">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Nunc quis nibh lorem. Duis sed odio lorem. In a efficitur
-                    leo. Ut venenatis rhoncus quam sed condimentum. Curabitur
-                    vel turpis in dolor volutpat imperdiet in ut mi. Integer non
-                    volutpat nulla. Nunc elementum elit viverra, tempus quam
-                    non, interdum ipsum.
-                  </p>
 
-                  <p>
-                    Aenean augue ex, condimentum vel metus vitae, aliquam porta
-                    elit. Quisque non metus ac orci mollis posuere. Mauris vel
-                    ipsum a diam interdum ultricies sed vitae neque. Nulla
-                    porttitor quam vitae pulvinar placerat. Nulla fringilla elit
-                    sit amet justo feugiat sodales. Morbi eleifend, enim non
-                    eleifend laoreet, odio libero lobortis lectus, non porttitor
-                    sem urna sit amet metus. In sollicitudin quam est,
-                    pellentesque consectetur felis fermentum vitae.
-                  </p>
+                  
+                  <p>Planejar seus estudos é o primeiro passo para alcançar a aprovação no vestibular. Neste artigo, trazemos dicas detalhadas para ajudar você a criar uma rotina personalizada e eficiente.</p>
+
+                  <p>Se preparar para o vestibular exige mais do que dedicação: é necessário planejamento. Muitas vezes, a ansiedade e a quantidade de conteúdos podem atrapalhar o progresso, mas com uma rotina estruturada, tudo fica mais fácil.</p>
+
+                  <p><strong>1. Defina Objetivos Realistas:</strong> Comece identificando as matérias que mais caem no vestibular e suas dificuldades. Por exemplo, na prova da Vunesp, as áreas de exatas têm grande peso. Dedique mais tempo a elas.</p>
+
+                  <p><strong>2. Monte um Cronograma Personalizado:</strong> Utilize ferramentas como Google Calendar ou aplicativos de organização para mapear os dias da semana e definir horários específicos para cada matéria.</p>
+
+                  <p><strong>3. Inclua Momentos de Revisão:</strong> Reserve pelo menos um dia na semana para revisar o que foi estudado. A repetição é essencial para a fixação do conteúdo.</p>
+
+                  <p><strong>4. Faça Simulados Periódicos:</strong> Utilize materiais como as apostilas da NexusVest, que possuem questões organizadas por assunto. Dessa forma, você pode identificar seus pontos fortes e o que ainda precisa melhorar.</p>
+
+                  <p><strong>5. Não Negligencie o Descanso:</strong> O sono é fundamental para consolidar o que foi aprendido. Estude, mas respeite seus limites.</p>
+
+                  <p>Com essas dicas, sua jornada será muito mais produtiva e você estará um passo mais próximo do seu sonho.</p>
+
 
                   <div className="flex flex-wrap gap-5">
                     <Image
