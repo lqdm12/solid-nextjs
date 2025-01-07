@@ -173,7 +173,7 @@ const Signin = () => {
                       htmlFor="default-checkbox"
                       className="flex max-w-[425px] cursor-pointer select-none pl-3"
                     >
-                      Keep me signed in
+                      Me mantenha conectado
                     </label>
                   </div>
 
