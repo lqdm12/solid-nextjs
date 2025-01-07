@@ -1,4 +1,12 @@
-/*
+"use client";
+
+const Brands = () => {
+  return <></>; // Renders nothing
+};
+
+export default Brands;
+
+/* 
 "use client";
 import React from "react";
 import SingleBrand from "./SingleBrand";
@@ -19,9 +27,8 @@ const Brands = () => {
         </div>
       </section>
       {/* <!-- ===== Clients End ===== --> *///}
-    /*
-      </>
+    /* </>
   );
 };
+//export default Brands;
 */
-// export default Brands;

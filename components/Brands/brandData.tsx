@@ -1,3 +1,7 @@
+const brandData = []; // No data
+export default brandData;
+
+
 /*
 import { Brand } from "@/types/brand";
 
@@ -46,5 +50,5 @@ const brandData: Brand[] = [
   },
 ];
 
-// export default brandData;
+export default brandData;
 */

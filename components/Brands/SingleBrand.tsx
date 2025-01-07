@@ -1,3 +1,13 @@
+import React from "react";
+import { Brand } from "@/types/brand";
+
+const SingleBrand = ({ brand }: { brand: Brand }) => {
+  return <></>; // Prevents rendering
+};
+
+export default SingleBrand;
+
+
 /*
 import React, { useRef, useEffect } from "react";
 import Image from "next/image";
@@ -44,5 +54,6 @@ const SingleBrand = ({ brand }: { brand: Brand }) => {
     </>
   );
 };
+
+export default SingleBrand;
 */
-// export default SingleBrand;
