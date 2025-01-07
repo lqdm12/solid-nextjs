@@ -102,16 +102,14 @@ const SingleBlogPage = async () => {
                     </span>{" "}
                   </li>
                   <li>
-                    <span className="text-black dark:text-white">
-                      Categoria:
-                    </span>
+                    <span className="text-black dark:text-white">Categoria: </span>
                     Events
                   </li>
                 </ul>
 
                 <div className="blog-details">
 
-                  
+
                   <p>Planejar seus estudos é o primeiro passo para alcançar a aprovação no vestibular. Neste artigo, trazemos dicas detalhadas para ajudar você a criar uma rotina personalizada e eficiente.</p>
 
                   <p>Se preparar para o vestibular exige mais do que dedicação: é necessário planejamento. Muitas vezes, a ansiedade e a quantidade de conteúdos podem atrapalhar o progresso, mas com uma rotina estruturada, tudo fica mais fácil.</p>
@@ -145,16 +143,13 @@ const SingleBlogPage = async () => {
                   </div>
 
                   <h3 className="pt-8">
-                    Nunc elementum elit viverra, tempus quam non
+                    Resumo
                   </h3>
 
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Nunc quis nibh lorem. Duis sed odio lorem. In a efficitur
-                    leo. Ut venenatis rhoncus quam sed condimentum. Curabitur
-                    vel turpis in dolor volutpat imperdiet in ut mi. Integer non
-                    volutpat nulla. Nunc elementum elit viverra, tempus quam
-                    non, interdum ipsum.
+                    <strong>
+                      Organize sua rotina de estudos com metas realistas, cronograma personalizado e períodos de revisão. Simulados e descanso também são essenciais para o sucesso no vestibular.
+                    </strong>
                   </p>
                 </div>
 
