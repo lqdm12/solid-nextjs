@@ -186,7 +186,7 @@ const Signin = () => {
                   aria-label="entrar com email e senha"
                   className="inline-flex items-center gap-2.5 rounded-full bg-black px-6 py-3 font-medium text-white duration-300 ease-in-out hover:bg-blackho dark:bg-btndark dark:hover:bg-blackho"
                 >
-                  Log in
+                  Entrar
                   <svg
                     className="fill-white"
                     width="14"
@@ -205,12 +205,12 @@ const Signin = () => {
 
               <div className="mt-12.5 border-t border-stroke py-5 text-center dark:border-strokedark">
                 <p>
-                  Don't have an account?{" "}
+                  Não tem uma conta?{" "}
                   <Link
                     className="text-black hover:text-primary dark:text-white hover:dark:text-primary"
                     href="/auth/signup"
                   >
-                    Sign Up
+                    Criar uma conta
                   </Link>
                 </p>
               </div>
