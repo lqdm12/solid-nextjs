@@ -5,34 +5,34 @@ import { Testimonial } from "@/types/testimonial";
 export const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "João Luiz",
+    designation: "Medicina UEA",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Com as apostilas da Vunesp, consegui focar exatamente no que mais cai nas provas. Sem dúvidas, foi essencial para minha aprovação.",
   },
   {
     id: 2,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Ludmilla Santos",
+    designation: "Direito UNESP",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Estudar com as apostilas da Vunesp fez toda a diferença! Os exercícios e resumos me ajudaram a fixar o conteúdo e a ir mais confiante para o vestibular. Consegui minha vaga graças a esse material!",
   },
   {
     id: 3,
-    name: "Devid Smith",
-    designation: "Founter @democompany",
+    name: "Lucas Vitoriano",
+    designation: "Engenharia UEA",
     image: image1,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "Consegui entender os assuntos mais complicados de maneira simples e prática. Estudei com foco, e o resultado foi a minha aprovação. Recomendo para todos que estão na jornada pelo vestibular.",
   },
   {
     id: 4,
-    name: "Jhon Abraham",
-    designation: "Founter @democompany",
+    name: "Julia Almeida",
+    designation: "Medicina FAMERP",
     image: image2,
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris hendrerit, ligula sit amet cursus tincidunt, lorem sem elementum nisi, convallis fringilla ante nibh non urna.",
+      "O diferencial das apostilas da Vunesp está na organização do conteúdo. Senti que cada página foi feita para me ajudar a aprender mais rápido e com mais eficiência. Foi um divisor de águas nos meus estudos.",
   },
 ];

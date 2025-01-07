@@ -20,9 +20,9 @@ const Testimonial = () => {
           <div className="animate_top mx-auto text-center">
             <SectionHeader
               headerInfo={{
-                title: `TESTIMONIALS`,
-                subtitle: `Client’s Testimonials`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                title: `APROVADOS`,
+                subtitle: `Depoimentos dos nossos aprovados`,
+                description: `Depois de muito esforço e dedicação, nossos alunos conseguiram alcançar seus objetivos. Veja o que eles têm a dizer sobre a experiência de estudar com a gente.`,
               }}
             />
           </div>
