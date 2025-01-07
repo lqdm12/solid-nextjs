@@ -128,7 +128,7 @@ const Signup = () => {
                 <input
                   name="firstName"
                   type="text"
-                  placeholder="Primeiro nome"
+                  placeholder="Nome"
                   value={data.firstName}
                   onChange={(e) =>
                     setData({ ...data, [e.target.name]: e.target.value })
@@ -200,7 +200,7 @@ const Signup = () => {
                     htmlFor="default-checkbox"
                     className="flex max-w-[425px] cursor-pointer select-none  pl-3"
                   >
-                    Keep me signed in
+                    Me mantenha conectado
                   </label>
                 </div>
 
