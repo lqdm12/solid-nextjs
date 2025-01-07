@@ -13,7 +13,7 @@ const faqData: FAQ[] = [
   },
   {
     id: 3,
-    quest: "Quais são as formas de pagamento para planos premium?",
+    quest: "Quais são as formas de pagamento?",
     ans: "Aceitamos diversas formas de pagamento, incluindo cartões de crédito, boletos bancários e transferências via plataformas de pagamento online.",
   },
   {
